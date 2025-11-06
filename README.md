@@ -32,6 +32,6 @@ How to Run
 Author
 
 Developed by Aashee Tak, UID- 25BCA20004
+
 A simple C project created for practicing 'operators, decision-making, and program structure' in C.
 
-Would you like me to make it sound a bit more **academic or formal** (for use in a report or portfolio)?
